@@ -1,0 +1,9 @@
+﻿  Game.cpp
+C:\Users\lenaz\source\repos\GameTemplate\Game.cpp(78,17): warning C4099: Transform: имя типа, ранее отображенное с помощью "struct", теперь отображено с помощью "class"
+C:\Users\lenaz\source\repos\GameTemplate\Game.cpp(78): message : см. объявление "Transform"
+C:\Users\lenaz\source\repos\GameTemplate\Game.cpp(285,74): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\lenaz\source\repos\GameTemplate\Game.cpp(347,55): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\lenaz\source\repos\GameTemplate\Game.cpp(373,22): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\lenaz\source\repos\GameTemplate\Game.cpp(446,17): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\lenaz\source\repos\GameTemplate\Game.cpp(447,17): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  GameTemplate.vcxproj -> C:\Users\lenaz\source\repos\GameTemplate\x64\Debug\GameTemplate.exe
